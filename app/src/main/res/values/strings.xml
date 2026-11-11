@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reel Counter</string>
+    <string name="accessibility_description">Reel Counter sirf yeh dekhta hai ki Instagram khula hai ya nahi aur reel scroll hui ya nahi, taaki reels ginti aur time dikha sake. Koi personal data, message ya password collect ya share nahi hota.</string>
+</resources>
